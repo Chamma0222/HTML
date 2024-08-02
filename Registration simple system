@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>B.S.S Group </title>
+    <link rel="website icon" type="png" href="e:\downlad potos\images (1).png"
+
+</head>
+
+<body>
+    
+    <center>
+         <h1>Sing in to B.S.S Group Registration portal.</h1>
+     <b><h3>Name:</h3></b>
+     <input title="text" list="input">
+     <b><h4>age:</h4></b>
+     <input title="text" list="input">
+     <b><h4>Birthday:</h4></b>
+     <input title="text" list="input">
+     <b><h4>Home address:</h4></b>
+     <input title="text" list="input">
+     <b><h4>User name:</h4></b>
+     <input title="text" list="input">
+     <b><h4>phone number:</h4></b>
+     <input type="number"/>
+     <b><h4>E-mail:</h4></b>
+     <input title="text" list="input">
+     <b><h4>ID or password:</h4></b>
+     <input type="password"/>
+     <b><h4>Is all of the above true,okay?:</h4></b>
+     <input type="checkbox"/>
+     <input type="submit"/>
+     
+
+
+     <p><h3>Thanks for you!</h3></p>
+     <p><h2>B.S.S Group (Pvt) Ltd.</h2></p>
+     <p><h2>Sri Lanka.</h2></p>
+
+     </body>
+
+
+
+
+</html>
